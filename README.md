@@ -11,6 +11,7 @@ Based on: https://git-scm.com/book/cs/v1/N%C3%A1stroje-syst%C3%A9mu-Git-Submodul
  git clone http://github.com/clubnick/GIT_PLAYGROUND
  
  git submodule add git://github.com/clubnick/knowledge.git knowledge
+ - add another github project as submodule
  - created .gitmodules in main folder
  
  git commit -m 'first commit with submodule knowledge
