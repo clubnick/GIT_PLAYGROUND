@@ -1,6 +1,6 @@
 # GIT_PLAYGROUND
 
-## GIT Submodules 
+## GIT Submodules - with git engine
 Based on: https://git-scm.com/book/cs/v1/N%C3%A1stroje-syst%C3%A9mu-Git-Submoduly
 
 ### add submodule  - submodule name "knowledge"
@@ -56,3 +56,7 @@ to checkout also the submodules:
 (submodule deleted)
  
  
+ ## GIT Submodules - with tortoise engine
+ * On the main project submodule add
+ * fill appropriate directory - no branch - will automatically master used
+ * rest in submodules.docx
