@@ -42,5 +42,12 @@ Based on: https://git-scm.com/book/cs/v1/N%C3%A1stroje-syst%C3%A9mu-Git-Submodul
  
  2.
   **git clone --recursive http://github.com/clubnick/GIT_PLAYGROUND**
+  
+  
+### remove submodule/s from main project
+  
+  ** git submodule deinit -f knowledge
+  
+(Cleared directory 'knowledge')
  
  
