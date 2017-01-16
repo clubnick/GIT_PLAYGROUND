@@ -64,4 +64,4 @@ to checkout also the submodules:
  **fill appropriate directory - no branch - will automatically master used**
   
  **rest in** \*submodules with tortoisegit.docx\*
- [here](./submodules with tortoisegit.docx)
+ [here](submodules with tortoisegit.docx)
