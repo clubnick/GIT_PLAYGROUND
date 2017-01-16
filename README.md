@@ -23,18 +23,21 @@ Based on: https://git-scm.com/book/cs/v1/N%C3%A1stroje-syst%C3%A9mu-Git-Submodul
  (push main project + submodule to remote repository)
  
 
- ### clone main project with submodule/s
+### clone main project with submodule/s
  
  1.
  **git clone http://github.com/clubnick/GIT_PLAYGROUND**
+ 
  (submodule folder is cloned as empty)
   
- to checkout the submodules:
+ to checkout also the submodules:
  
  **git submodule init**
+ 
  (submodule path is registered)
   
  **git submodule update**
+ 
  (submodule is checked-out)
  
  2.
