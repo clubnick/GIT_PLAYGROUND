@@ -59,4 +59,5 @@ to checkout also the submodules:
  ## GIT Submodules - with tortoise engine
  * On the main project submodule add
  * fill appropriate directory - no branch - will automatically master used
- * rest in submodules with tortoisegit.docx
+ ...
+ ** rest in submodules with tortoisegit.docx
