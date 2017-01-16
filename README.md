@@ -60,4 +60,4 @@ to checkout also the submodules:
  * On the main project submodule add
  * fill appropriate directory - no branch - will automatically master used
  ...
- ** rest in submodules with tortoisegit.docx
+ ** rest in "submodules with tortoisegit.docx"
