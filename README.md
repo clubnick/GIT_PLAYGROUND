@@ -53,8 +53,8 @@ to checkout also the submodules:
 **manually delete folder knowledge (local) and file .gitmodules**
 
 **commit and push to github**
+
 (submodule deleted)
- 
  
  ## GIT Submodules - with tortoise engine
  
