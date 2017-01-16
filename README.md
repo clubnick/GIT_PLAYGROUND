@@ -46,21 +46,21 @@ to checkout also the submodules:
   
 ### remove submodule/s from main project
   
-** git submodule deinit -f knowledge **
+**git submodule deinit -f knowledge**
   
 (Cleared directory 'knowledge')
 
-** manually delete folder knowledge (local) and file .gitmodules **
+**manually delete folder knowledge (local) and file .gitmodules**
 
-** commit and push to github **
+**commit and push to github**
 (submodule deleted)
  
  
  ## GIT Submodules - with tortoise engine
  
- ** On the main project submodule add **
+ **On the main project submodule add**
  
- ** fill appropriate directory - no branch - will automatically master used **
+ **fill appropriate directory - no branch - will automatically master used**
  ...
  
- ** rest in \*submodules with tortoisegit.docx\* **
+ **rest in** \*submodules with tortoisegit.docx\*
