@@ -57,7 +57,7 @@ to checkout also the submodules:
 (submodule deleted)
  
  
- ## GIT Submodules - with tortoise engine
+## GIT Submodules - with tortoise engine
  
  **On the main project submodule add**
  
